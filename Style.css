@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+.Background-Container{
+    background-image: url("https://images.deepai.org/art-image/b97ac5f13d8a4ce390d2826fff9a3981/plain-minimal-love-pink-purple-blue-tones-ill_nb7fRb4.jpg");
+    background-size: cover;
+    width: 360px;
+    height: 640px;
+    margin: 0;
+    overflow-y: auto;
+}
+.Main-Heading{
+    font-weight: bold;
+    color: #c2639c;
+    font-family: "Sour Gummy", serif;
+    text-align: center;
+    font-size: 32px;
+
+}
+.Card{
+    background-color: white;
+
+}
+.Button-Card{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-radius: 16px;
+    margin:6px
+}
+.Detailed-View-CardContainer{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding : 16px;
+}
+.BackButton{
+    height: 45px;
+    width: 45px;
+    background-color: rgb(185, 67, 144);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: small;
+    margin-left: 16px;
+
+}
+.Carousel-container-Paragraph{
+    font-family: cursive;
+    color: rgb(240, 87, 138);
+}
