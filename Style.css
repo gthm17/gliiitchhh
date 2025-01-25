@@ -4,8 +4,7 @@
 .Background-Container{
     background-image: url("https://images.deepai.org/art-image/b97ac5f13d8a4ce390d2826fff9a3981/plain-minimal-love-pink-purple-blue-tones-ill_nb7fRb4.jpg");
     background-size: cover;
-    width: 360px;
-    height: 640px;
+    height: 100vh;
     margin: 0;
     overflow-y: auto;
 }
